@@ -5,9 +5,11 @@
 :root {
   --figma-global-primary-theme: #ee4eff;
   --figma-global-main-border: [object Object];
+  --figma-global-radius: 10px;
   --figma-primary-theme: #ee4eff;
   --figma-main-border-color: #ff9800;
   --figma-main-border-width: 5px;
   --figma-main-border-style: solid;
+  --figma-radius: 10px;
   --figma-token-set-order-0: global;
 }

@@ -11,6 +11,10 @@
         "style": "solid"
       },
       "type": "border"
+    },
+    "radius": {
+      "value": "10px",
+      "type": "borderRadius"
     }
   },
   "$themes": [],

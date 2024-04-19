@@ -17,6 +17,10 @@
       "type": "strokeStyle"
     }
   },
+  "radius": {
+    "value": "10px",
+    "type": "borderRadius"
+  },
   "tokenSetOrder": {
     "0": {
       "value": "global",
