@@ -1,0 +1,10 @@
+.btn {
+    display: inline-flex;
+    padding: 6px 12px;
+    justify-content: center;
+    align-items: center;
+    gap: 8px;
+    
+    /*Variables here*/
+    background: var(--figma-global-primary-theme);
+}
