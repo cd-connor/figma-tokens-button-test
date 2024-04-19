@@ -1,24 +1,24 @@
 {
   "Primary Theme": {
-    "value": "#ff6000",
+    "value": "#ffca00",
     "type": "color"
   },
   "Main Border": {
     "color": {
-      "value": "#ff002e",
+      "value": "#000",
       "type": "color"
     },
     "width": {
-      "value": "2px",
+      "value": "15px",
       "type": "dimension"
     },
     "style": {
-      "value": "dashed",
+      "value": "solid",
       "type": "strokeStyle"
     }
   },
   "radius": {
-    "value": "20px",
+    "value": "1px",
     "type": "borderRadius"
   },
   "buttonHover": {
@@ -28,6 +28,10 @@
   "tokenSetOrder": {
     "0": {
       "value": "global",
+      "type": "other"
+    },
+    "1": {
+      "value": "button",
       "type": "other"
     }
   }
