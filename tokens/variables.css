@@ -3,9 +3,11 @@
  */
 
 :root {
-  --figma-global-primary-theme: #001bdd;
+  --figma-global-primary-theme: #ee4eff;
   --figma-global-main-border: [object Object];
-  --figma-primary-theme: #001bdd;
-  --figma-main-border: [object Object];
+  --figma-primary-theme: #ee4eff;
+  --figma-main-border-color: #ff9800;
+  --figma-main-border-width: 5px;
+  --figma-main-border-style: solid;
   --figma-token-set-order-0: global;
 }
