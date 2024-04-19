@@ -15,6 +15,10 @@
     "radius": {
       "value": "2px",
       "type": "borderRadius"
+    },
+    "buttonHover": {
+      "value": "#000dff",
+      "type": "color"
     }
   },
   "$themes": [],

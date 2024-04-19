@@ -21,6 +21,10 @@
     "value": "2px",
     "type": "borderRadius"
   },
+  "buttonHover": {
+    "value": "#000dff",
+    "type": "color"
+  },
   "tokenSetOrder": {
     "0": {
       "value": "global",
