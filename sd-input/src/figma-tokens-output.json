@@ -1,19 +1,19 @@
 {
   "global": {
     "Primary Theme": {
-      "value": "#ff6000",
+      "value": "#ffca00",
       "type": "color"
     },
     "Main Border": {
       "value": {
-        "color": "#ff002e",
-        "width": "2px",
-        "style": "dashed"
+        "color": "#000",
+        "width": "15px",
+        "style": "solid"
       },
       "type": "border"
     },
     "radius": {
-      "value": "20px",
+      "value": "1px",
       "type": "borderRadius"
     },
     "buttonHover": {
@@ -21,10 +21,12 @@
       "type": "color"
     }
   },
+  "button": {},
   "$themes": [],
   "$metadata": {
     "tokenSetOrder": [
-      "global"
+      "global",
+      "button"
     ]
   }
 }
