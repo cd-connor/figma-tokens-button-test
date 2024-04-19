@@ -3,15 +3,16 @@
  */
 
 :root {
-  --figma-global-primary-theme: #ff6000;
+  --figma-global-primary-theme: #ffca00;
   --figma-global-main-border: [object Object];
-  --figma-global-radius: 20px;
+  --figma-global-radius: 1px;
   --figma-global-button-hover: #00ff48;
-  --figma-primary-theme: #ff6000;
-  --figma-main-border-color: #ff002e;
-  --figma-main-border-width: 2px;
-  --figma-main-border-style: dashed;
-  --figma-radius: 20px;
+  --figma-primary-theme: #ffca00;
+  --figma-main-border-color: #000;
+  --figma-main-border-width: 15px;
+  --figma-main-border-style: solid;
+  --figma-radius: 1px;
   --figma-button-hover: #00ff48;
   --figma-token-set-order-0: global;
+  --figma-token-set-order-1: button;
 }
