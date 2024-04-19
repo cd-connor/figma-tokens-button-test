@@ -1,19 +1,19 @@
 {
   "global": {
     "Primary Theme": {
-      "value": "#ee4eff",
+      "value": "#e1e1e1",
       "type": "color"
     },
     "Main Border": {
       "value": {
-        "color": "#ff9800",
+        "color": "#2abeff",
         "width": "5px",
         "style": "solid"
       },
       "type": "border"
     },
     "radius": {
-      "value": "10px",
+      "value": "2px",
       "type": "borderRadius"
     }
   },
