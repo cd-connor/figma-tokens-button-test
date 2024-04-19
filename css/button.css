@@ -4,7 +4,16 @@
     justify-content: center;
     align-items: center;
     gap: 8px;
+    cursor: pointer;
     
     /*Variables here*/
-    background: var(--figma-global-primary-theme);
+    background: var(--figma-primary-theme);
+    border-color: var(--figma-main-border-color);
+    border-width: var(--figma-main-border-width);
+    border-radius: var(--figma-radius);
+    border-style: var(--figma-main-border-style);
+}
+
+.btn:hover {
+    background-color: var(--figma-button-hover);
 }
