@@ -3,13 +3,13 @@
  */
 
 :root {
-  --figma-global-primary-theme: #ee4eff;
+  --figma-global-primary-theme: #e1e1e1;
   --figma-global-main-border: [object Object];
-  --figma-global-radius: 10px;
-  --figma-primary-theme: #ee4eff;
-  --figma-main-border-color: #ff9800;
+  --figma-global-radius: 2px;
+  --figma-primary-theme: #e1e1e1;
+  --figma-main-border-color: #2abeff;
   --figma-main-border-width: 5px;
   --figma-main-border-style: solid;
-  --figma-radius: 10px;
+  --figma-radius: 2px;
   --figma-token-set-order-0: global;
 }

@@ -1,11 +1,11 @@
 {
   "Primary Theme": {
-    "value": "#ee4eff",
+    "value": "#e1e1e1",
     "type": "color"
   },
   "Main Border": {
     "color": {
-      "value": "#ff9800",
+      "value": "#2abeff",
       "type": "color"
     },
     "width": {
@@ -18,7 +18,7 @@
     }
   },
   "radius": {
-    "value": "10px",
+    "value": "2px",
     "type": "borderRadius"
   },
   "tokenSetOrder": {
