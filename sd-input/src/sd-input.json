@@ -1,15 +1,21 @@
 {
   "Primary Theme": {
-    "value": "#001bdd",
+    "value": "#ee4eff",
     "type": "color"
   },
   "Main Border": {
-    "value": {
-      "color": "#ff9800",
-      "width": "5px",
-      "style": "solid"
+    "color": {
+      "value": "#ff9800",
+      "type": "color"
     },
-    "type": "border"
+    "width": {
+      "value": "5px",
+      "type": "dimension"
+    },
+    "style": {
+      "value": "solid",
+      "type": "strokeStyle"
+    }
   },
   "tokenSetOrder": {
     "0": {
